@@ -1,0 +1,22 @@
+body{
+        background-color: #FFDEDE !important;
+        color: #CF0F47 !important;
+       }
+       button{
+        background-color: #FF0B55 !important;
+        border: none !important;
+       }
+       .picture {
+      position: absolute;
+      bottom: 0;
+      right: 0;
+      width: 55%; /* Adjust as needed */
+      height: auto;
+      z-index: 1;
+    }
+
+    .picture img {
+      width: 50%;
+      height: auto;
+      display: block;
+    }
